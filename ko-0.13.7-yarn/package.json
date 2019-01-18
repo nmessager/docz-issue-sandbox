@@ -1,0 +1,16 @@
+{
+  "name": "ko-0.13.7-yarn",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docz dev",
+    "build": "docz build"
+  },
+  "dependencies": {
+    "docz": "^0.13.7",
+    "docz-theme-default": "^0.13.7",
+    "webpack": "^4.28.4",
+    "webpack-bundle-analyzer": "^3.0.3",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
+  }
+}
